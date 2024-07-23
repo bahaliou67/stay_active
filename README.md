@@ -18,6 +18,11 @@ Téléchargez et exécutez le fichier **[StayActiveApplication.msix](https://git
 
 
 ## Capture d'écran
+<img alt="Start" src="assets/screen_shot/SA1.png" width="80%"/>
+ 
+<img alt="Stop" src="assets/screen_shot/SA2.png" width="80%"/>
+ 
+<img alt="Console log outputs" src="assets/screen_shot/SA3.png" width="80%"/>
 
 
 ## Licence
